@@ -5,11 +5,11 @@
 
 -------
 
-Desde que comence mi aprendizaje, me di cuenta es esto es algo que me gusta mucho hacer, y sinceramente quiero dedicarme a esto. Lo mas lindo de programar, es tener la capacidad de llevar a cabo una idea que tenes en la cabeza, esa es una de las muchas razones por la que me gusta este mundo.
+Desde que comencé mi aprendizaje me di cuenta que programar es algo que me gusta mucho hacer, y sinceramente quiero dedicarme a esto. Lo más lindo de programar es tener la capacidad de llevar a cabo una idea que tenes en la cabeza, esa es una de las muchas razones por la que me gusta este mundo.
 
 -------
   
-## 🧐 About
+## 🧐 Sobre mi
 
 Tengo 17 años. Actualmente estoy cursando el CBC de la UBA para entrar a la carrera Ciencias de la Computación. Elegí esa carrera dado que mi interés es conocer los fundamentos de la programación y tener una base muy solida.
 
@@ -18,10 +18,10 @@ Tengo 17 años. Actualmente estoy cursando el CBC de la UBA para entrar a la car
 - El mate 🧉
 - Videojuegos
 - Mísica
-- Futbol
+- Fútbol
 - Programación
 
-Si alguna de estas cosas te gusta yo creo que nos vamos a llevar muy bien
+Si alguna de estas cosas te gusta yo creo que nos vamos a llevar muy bien.
 
 ## Contacto
 
