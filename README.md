@@ -11,7 +11,7 @@ Desde que comencé mi aprendizaje me di cuenta que programar es algo que me gust
   
 ## 🧐 Sobre mi
 
-Tengo 17 años. Actualmente estoy cursando el CBC de la UBA para entrar a la carrera Ciencias de la Computación. Elegí esa carrera dado que mi interés es conocer los fundamentos de la programación y tener una base muy solida.
+Tengo 18 años. Actualmente estoy cursando el CBC de la UBA para entrar a la carrera Ciencias de la Computación. Elegí esa carrera dado que mi interés es conocer los fundamentos de la programación y tener una base muy solida.
 
 ## 💖 Pasiones
 
