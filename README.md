@@ -21,7 +21,7 @@ Tengo 18 años y soy de Argentina. Actualmente estoy cursando el CBC de la UBA p
 
 - El mate 🧉
 - Videojuegos
-- Mísica
+- Música
 - Fútbol
 - Programación
 
