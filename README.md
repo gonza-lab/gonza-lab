@@ -16,6 +16,7 @@ Tengo 18 años y soy de Argentina. Actualmente estoy cursando el CBC de la UBA p
 ## 💡 Proyectos
 
 - [MiEventos](https://github.com/gonza-lab/mieventos-react): Pagina de eventos, autoadministrable.
+- [AppStore7](https://github.com/gonza-lab/app-store): Una tienda de aplicaciones.
 
 ## 💖 Pasiones
 
