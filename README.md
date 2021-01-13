@@ -11,7 +11,7 @@ Desde que comencé mi aprendizaje me di cuenta que programar es algo que me gust
   
 ## 🧐 Sobre mi
 
-Tengo 18 años y soy de Argentina. Actualmente estoy cursando el CBC de la UBA para entrar a la carrera Ciencias de la Computación. Elegí esa carrera dado que mi interés es conocer los fundamentos de la programación y tener una base muy solida. Me gusta mucho el futbol, soy del club Boca Juniors. Tambien me gustan muchos los esports, sigo principalmente la escena del CSGO.
+Tengo 19 años y soy de Argentina. Actualmente estoy cursando el CBC de la UBA para entrar a la carrera Ciencias de la Computación. Elegí esa carrera dado que mi interés es conocer los fundamentos de la programación y tener una base muy solida. Me gusta mucho el futbol, soy del club Boca Juniors. Tambien me gustan muchos los esports, sigo principalmente la escena del CSGO.
 
 ## 💡 Proyectos
 
