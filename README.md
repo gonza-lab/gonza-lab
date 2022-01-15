@@ -30,4 +30,4 @@ Si alguna de estas cosas te gusta yo creo que nos vamos a llevar muy bien.
 
 ## Contacto
 
-<a target="_blank" href="https://www.linkedin.com/in/gonzalo-flores-71ba51177/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/gonzadev/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
